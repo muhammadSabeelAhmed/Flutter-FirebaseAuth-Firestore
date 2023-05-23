@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "193972003939",
+    "project_id": "clearcodelab",
+    "storage_bucket": "clearcodelab.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:193972003939:android:3109ace9b2941d83c70456",
+        "android_client_info": {
+          "package_name": "com.example.firebaseclass"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "193972003939-3u3hscvptej9ktiup5e4j6ifbhkcp10j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDiztKUun9ITQtuZhxLH5K2FLDvb7keVFk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "193972003939-3u3hscvptej9ktiup5e4j6ifbhkcp10j.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
